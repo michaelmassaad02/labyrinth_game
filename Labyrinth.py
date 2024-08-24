@@ -1,6 +1,5 @@
 
-# Michael Massaad 300293612
-# Matin Mobini 300283854
+
 
 def r_search(maze, row, col):
    
