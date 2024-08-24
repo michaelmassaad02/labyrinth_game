@@ -4,7 +4,9 @@ which reads the number of rows in the labyrinth, then receives each row then ret
 
 Example input:
 
-Enter the amount of rows in the maze: 3
+Enter the amount of rows in the maze: 
+
+3
 
 Enter row 1 of the Labyrinth:
 
