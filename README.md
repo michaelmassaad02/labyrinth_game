@@ -5,9 +5,15 @@ which reads the number of rows in the labyrinth, then receives each row then ret
 Example input:
 
 Enter the amount of rows in the maze: 3
+
 Enter row 1 of the Labyrinth:
+
 ##ppp###
+
 Enter row 2 of the Labyrinth:
+
 ppp#pppp
+
 Enter row 3 of the Labyrinth:
+
 ##p#####
